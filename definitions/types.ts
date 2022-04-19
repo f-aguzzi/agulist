@@ -1,0 +1,6 @@
+
+
+enum Pages {
+    entryPage,
+    mainPage,
+}
