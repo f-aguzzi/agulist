@@ -1,6 +1,6 @@
 
 
-enum Pages {
+export enum Pages {
     entryPage,
     mainPage,
 }
